@@ -6,7 +6,7 @@
 
 import origami.*;
 
-class classpath_example {
+class Sample01 {
 
 	public static void main(String[] args) {
 		// works on mac
